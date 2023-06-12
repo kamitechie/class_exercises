@@ -2,6 +2,7 @@ import unittest
 from datetime import date
 from main import Dog
 
+
 class TestMain(unittest.TestCase):
 
     def setUp(self):
